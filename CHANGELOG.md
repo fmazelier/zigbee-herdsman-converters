@@ -1,5 +1,12 @@
 # Changelog
 
+## [26.135.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.134.0...v26.135.0) (2026-11-19)
+
+
+### Features
+
+* Plugwise 170-01: expose `preset` selection and heating and cooling setpoints ([#13861](https://github.com/Koenkk/zigbee-herdsman-converters/issues/13861)) ([6f8db00](https://github.com/Koenkk/zigbee-herdsman-converters/commit/6f8db00f82c470cc70441563f48b861ed9c2b165))
+
 ## [26.134.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.133.0...v26.134.0) (2026-11-18)
 
 
